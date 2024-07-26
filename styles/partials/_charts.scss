@@ -1,0 +1,44 @@
+
+
+////////////////////////////////////////////////
+/*Elementos de la seccion FORECASTING*/
+////////////////////////////////////////////////
+
+
+.fgraph { 
+	grid-area:  1 / 1 / 2 / 2; 
+	.chart-breakdown-container {
+		padding: rem(40px) rem(10px) rem(10px);
+	}
+}
+
+////////////////////////////////////////////////
+/*Elementos de la seccion ACERCA DE...*/
+////////////////////////////////////////////////
+
+
+
+.tabset-general{
+	font-size: 14px;
+	margin: 20px;
+}
+
+
+//Estilos generales que sirven para elementos de varias secciones
+
+.dygraph-title {
+  color: #525252;
+  font-weight: 400;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 70px;
+  margin-top: -10px;
+}
+.dygraph-axis-label {
+  font-size: 12px;
+}
+
+
+
+
+

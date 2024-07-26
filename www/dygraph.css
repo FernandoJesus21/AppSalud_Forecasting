@@ -1,0 +1,12 @@
+.dygraph-title {
+  color: #525252;
+  font-weight: 400;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 70px;
+  margin-top: -10px;
+  //padding: -20px;
+}
+.dygraph-axis-label {
+  font-size: 11px;
+}
